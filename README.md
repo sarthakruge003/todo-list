@@ -18,7 +18,7 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 
 ## 📸 Preview
 
-![Todo List Preview](images/websitescreenshot.jpg)  
+![Todo List Preview](images/websitescreenshot.png)  
 *(Add a screenshot of your project here)*
 
 ---
