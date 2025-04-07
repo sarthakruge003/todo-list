@@ -11,7 +11,7 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 
 ## 🚀 Live Demo
 
-🔗 [View Project](https://sarthakruge003.github.io/todo-list/) 
+🔗 [[View Project](https://sarthakruge003.github.io/todo-list/) ](https://sarthakruge003.github.io/todo-list/)
 *(Replace with your actual GitHub Pages link)*
 
 ---
